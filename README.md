@@ -1,4 +1,4 @@
-# Assingment-1-HTML-CSS-
+# HRM--HTML-CSS-Assingment-1
 
 A web site for Human Resource Management in a company.
 
